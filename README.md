@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okchang95&layout=compact)
+-->
+
+<!--
 "https://img.shields.io/badge/{stack}-{color}?style=for-the-badge&logo={stack}&logoColor=white"
 -->
 
